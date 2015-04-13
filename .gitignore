@@ -9,3 +9,4 @@ build/require
 src/css
 examples/blog/build
 examples/blog/assets
+examples/blog/bower_components/
